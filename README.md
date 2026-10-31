@@ -1,3 +1,7 @@
+[English Version](README_EN.md)
+
+---
+
 # HBL --- Hierarchical Block Lifecycle Architecture
 
 ### 一种模块化 AI 代码生成架构构想
